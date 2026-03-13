@@ -448,5 +448,97 @@
   "text": "Suutei tsai is a traditional Mongolian milk tea made with green tea, milk, water, and salt.",
   "region": "Mongolia",
   "type": "Beverage"
+},
+{
+  "id": "76",
+  "text": "Adobo is a Filipino dish made by marinating meat in vinegar, soy sauce, and garlic, then simmering it.",
+  "region": "Philippines",
+  "type": "Main Course"
+},
+{
+  "id": "77",
+  "text": "Halo-halo is a Filipino dessert made from crushed ice, evaporated milk, and mixed ingredients like sweet beans, fruits, and jellies.",
+  "region": "Philippines",
+  "type": "Dessert"
+},
+{
+  "id": "78",
+  "text": "Pancit is a Filipino noodle dish that can be stir-fried or served in broth, often with vegetables and meat.",
+  "region": "Philippines",
+  "type": "Noodle"
+},
+{
+  "id": "79",
+  "text": "Lechon is a whole roasted pig, a popular dish in the Philippines for special occasions.",
+  "region": "Philippines",
+  "type": "Main Course"
+},
+{
+  "id": "80",
+  "text": "Kare-kare is a Filipino stew made with oxtail, vegetables, and a thick peanut sauce.",
+  "region": "Philippines",
+  "type": "Main Course"
+},
+{
+  "id": "81",
+  "text": "Pinakbet, also known as pakbet, is a Filipino vegetable dish made with mixed vegetables sautéed in shrimp paste.",
+  "region": "Philippines",
+  "type": "Main Course"
+},
+{
+  "id": "82",
+  "text": "Malungay is a Filipino dish made from the leaves of the moringa tree, often cooked with garlic and sometimes meat or seafood.`",
+  "region": "Philippines",
+  "type": "Main Course"
+},
+{
+  "id": "83",
+  "text": "Laing is a Bicolano dish made of dried taro leaves cooked in coconut milk, ginger, chili, and garlic. It is a nutrient-dense option that provides a good dose of fiber and healthy fats, especially when served with red rice.",
+  "region": "Philippines",
+  "type": "Main Course"
+},
+{
+  "id": "84",
+  "text": "Ginisang mungo is a Filipino dish made with mung beans sautéed with garlic, onions, and sometimes meat or seafood. It is a nutritious and filling meal that provides a good source of protein, fiber, and essential vitamins and minerals.",
+  "region": "Philippines",
+  "type": "Appetizer"
+},
+{
+  "id": "85",
+  "text": "Ginisang ampalaya is a Filipino dish made with bitter melon sautéed with garlic, onions, and sometimes meat or seafood. It is a healthy and flavorful option that provides a good source of vitamins and minerals, particularly vitamin C and iron.",
+  "region": "Philippines",
+  "type": "Main Course"
+},
+{
+  "id": "86",
+  "text": "Carbonara is an Italian pasta dish made with eggs, cheese, pancetta, and pepper. It is a creamy and indulgent dish that provides a good source of protein and carbohydrates, making it a satisfying meal option. The preparation involves boiling spaghetti until al dente while frying cured guanciale until crisp, then tossing everything off the heat to prevent the eggs from scrambling.",
+  "region": "Italy",
+  "type": "Pasta"
+},
+{
+  "id": "87",
+  "text": "Chicken tikamasala is a popular Indian dish made with marinated chicken cooked in a creamy tomato sauce. It is a flavorful and satisfying meal that provides a good source of protein and healthy fats, especially when served with whole grain rice or naan bread. The method requires marinating meat in yogurt and spices before grilling and finishing in a rich masala base. Naturally gluten-free and packed with antioxidants like lycopene and curcumin, it serves as a protein-rich centerpiece that famously bridges Eastern and Western culinary identities.",
+  "region": "India",
+  "type": "Main Course"
+},
+{
+  "id": "88",
+  "text": "Mousaka is a traditional Greek dish made with layers of eggplant, ground meat (usually lamb), and a creamy béchamel sauce. It is a hearty and flavorful meal that provides a good source of protein and vegetables, making it a satisfying option for lunch or dinner. The preparation involves slicing and frying eggplant, cooking ground meat with onions and tomatoes, then layering everything in a baking dish and topping with béchamel before baking until golden and bubbly.",
+  "region": "Greece",
+  "type": "Main Course"
+}, 
+{
+  "id": "89",
+  "text": "Shakshuka is a North African and Middle Eastern dish made with poached eggs in a spicy tomato sauce. It is a flavorful and satisfying meal that provides a good source of protein and vegetables, making it a great option for breakfast or brunch. The preparation involves sautéing onions, bell peppers, and garlic, then adding tomatoes and spices to create a rich sauce before cracking eggs on top and cooking until set.",
+  "region": "North Africa/Middle East",
+  "type": "Breakfast"
+},
+{
+  "id": "90",
+  "text": "Paella is a traditional Spanish rice dish that originated in the region of Valencia. It is typically made with a variety of ingredients such as saffron-infused rice, seafood (like shrimp, mussels, and clams), chicken, rabbit, and vegetables. Paella is known for its vibrant colors and rich flavors, making it a popular choice for festive occasions and gatherings. The preparation involves sautéing the meat and seafood, adding the rice and broth, and allowing everything to cook together until the rice is tender and has absorbed all the flavors.",
+  "region": "Spain",
+  "type": "Main Course"
 }
 ]
+  
+
