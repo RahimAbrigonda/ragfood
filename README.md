@@ -35,10 +35,10 @@ It **does not rely on the LLM’s built-in memory**. Instead, it:
    - Passes that context + question to a local LLM (`llama3.2`)
 4. Returns a natural-language answer grounded in your data.
 
-Sample queries and expected responses from your data:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+Sample queries and expected responses from your data: 
+![Sample RAG query and response](image-1.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 Personal Reflection on RAG learning experience:
 
