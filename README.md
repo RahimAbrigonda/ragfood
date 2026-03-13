@@ -13,6 +13,7 @@ This is a **minimal working RAG (Retrieval-Augmented Generation)** demo using:
 - ✅ Local embeddings via `mxbai-embed-large`
 - ✅ [ChromaDB](https://www.trychroma.com/) as the vector database
 - ✅ A simple food dataset in JSON (Indian foods, fruits, etc.)
+- ✅ added 15 new foods from Philippines, Italy, India, Greece, Middle East, etc.
 
 ---
 
@@ -34,6 +35,18 @@ It **does not rely on the LLM’s built-in memory**. Instead, it:
    - Passes that context + question to a local LLM (`llama3.2`)
 4. Returns a natural-language answer grounded in your data.
 
+Sample queries and expected responses from your data:
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+
+Personal Reflection on RAG learning experience:
+
+Building this RAG-Food system was a real eye-opener into how modern AI actually works. It taught me that an AI is only as smart as the information you give it. By connecting a private database of food items to the Llama 3.2 model, I saw firsthand how "Retrieval-Augmented Generation" turns a general AI into a specialized expert that can answer specific questions about my own data.
+
+Adding 15 unique dishes—from local Filipino favorites to healthy international meals—was the most rewarding part. It wasn't just about typing names; it was about teaching the system to understand ingredients, nutrition, and cultural history through vector embeddings. This process showed me that the "magic" of AI is actually a structured pipeline: the system searches my data, finds the most relevant facts, and then uses the language model to explain them naturally.
+
+Using Git and GitHub to fork and manage this project also helped me practice the professional workflow used by developers. This project shifted my perspective from just "using" AI to actually "building" and customizing it. I now feel much more confident in my ability to take a technical repository, modify it with my own ideas, and turn it into a functional tool that solves specific problems.
 ---
 
 ## 📦 Requirements
@@ -66,7 +79,7 @@ ollama pull mxbai-embed-large
 ### 1. Clone or download this repo
 
 ```bash
-git clone https://github.com/yourname/rag-food
+git clone https://github.com/RahimAbrigonda/ragfood
 cd rag-food
 ```
 
@@ -137,10 +150,9 @@ print(rag_query("Which foods are spicy and vegetarian?"))
 
 ## 👨‍🍳 Credits
 
-Made by Callum using:
+Made by Collum using:
 
 * [Ollama](https://ollama.com)
 * [ChromaDB](https://www.trychroma.com)
 * [mxbai-embed-large](https://ollama.com/library/mxbai-embed-large)
 * Indian food inspiration 🍛
-
