@@ -42,17 +42,11 @@ Sample queries and expected responses from your data:
 
 Personal Reflection on RAG learning experience:
 
-Building this RAG-Food system was a real eye-opener into how modern AI actually works. 
-It taught me that an AI is only as smart as the information you give it. 
-By connecting a private database of food items to the Llama 3.2 model, 
-I saw firsthand how "Retrieval-Augmented Generation" turns a general AI into a specialized expert that can answer specific questions about my own data. 
-Adding 15 unique dishes—from local Filipino favorites to healthy international meals—was the most rewarding part. 
-It wasn't just about typing names; it was about teaching the system to understand ingredients, nutrition, and cultural history through vector embeddings. 
-This process showed me that the "magic" of AI is actually a structured pipeline: the system searches my data, finds the most relevant facts, and then uses the language model to explain them naturally.
-Using Git and GitHub to fork and manage this project also helped me practice the professional workflow used by developers. 
-This project shifted my perspective from just "using" AI to actually "building" and customizing it. 
-I now feel much more confident in my ability to take a technical repository, modify it with my own ideas, and turn it into a functional tool that solves specific problems.
+Building this RAG-Food system was a real eye-opener into how modern AI actually works. It taught me that an AI is only as smart as the information you give it. By connecting a private database of food items to the Llama 3.2 model, I saw firsthand how "Retrieval-Augmented Generation" turns a general AI into a specialized expert that can answer specific questions about my own data.
 
+Adding 15 unique dishes—from local Filipino favorites to healthy international meals—was the most rewarding part. It wasn't just about typing names; it was about teaching the system to understand ingredients, nutrition, and cultural history through vector embeddings. This process showed me that the "magic" of AI is actually a structured pipeline: the system searches my data, finds the most relevant facts, and then uses the language model to explain them naturally.
+
+Using Git and GitHub to fork and manage this project also helped me practice the professional workflow used by developers. This project shifted my perspective from just "using" AI to actually "building" and customizing it. I now feel much more confident in my ability to take a technical repository, modify it with my own ideas, and turn it into a functional tool that solves specific problems.
 ---
 
 ## 📦 Requirements
