@@ -1,0 +1,18 @@
+# RAG-Food Requirements
+# Works for both local and cloud versions
+
+# Core dependencies
+requests==2.31.0
+python-dotenv==1.0.0
+
+# For embedding and vector operations
+sentence-transformers==2.2.2
+numpy==1.24.3
+
+# For local version (Ollama + ChromaDB)
+chromadb==0.4.14
+
+# For cloud version already included above
+# - requests (API calls)
+# - sentence-transformers (embeddings)
+# - python-dotenv (environment variables)
